@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="/static/css/style.min.css?v=1.2.18" />
+	
+	<link rel="shortcut icon" type="image/ico" href="/static/icons/opendns.ico" />
+	
+	
+	
+	<title>Site/liTTLE/shit</title>
+</head>
+<body>
+	<div class="container">
+		<div class="logo-area">
+			
+			<img id="logo" class="logo" src="https://d3aswa4nvo33j8.cloudfront.net/3/d/3dd590d49dc500ea835eeae14f52aaa6b31e79a84920e19f2cd114e76f6eb43ba50f286644b655ae29729b4d8a0ea529405d1353911c843757e924c5da6b75db.png"></img>
+			
+		</div>
+		<div class="content-area">
+
+			<div class="unblocked-page">
+				<h3>
+					<i class="fa fa-questionmark-triangle alert-icon"></i>
+					.
+				</h>
+				<div class="url-area">
+					
+					<input readonly class="url" id="inputUrl" type="text" value="www.crazygames.com" />
+					
+				</div>
+
+				
+			</div>
+			<div class="explanation-area">
+				
+
+				
+				<p class="custom-message" id="customMessage">
+					we are working hard on fixing crazy games 
+
+				
+
+				
+
+				
+
+				
+				
+				<div class="proxy-area">
+					
+
+					
+					
+						<div class="diagnostic-info-area" id="diagnosticInfoArea">
+							<i class="fa fa-angle-right" id="diagnosticToggleCaret"></i>
+							<a href="#" id="diagnosticToggle">Diagnostic Info</a>
+							<div class="diagnostic-info">
+								<dl>
+								
+									<dt>ACType</dt>
+									<dd>0</dd>
+								
+									<dt>Block Type<=flase/dt>
+									<dd>domainlist</dd>
+								
+									<dt>Bundle ID</dt>
+									<dd>379451</dd>
+								
+									<dt>Domain Tagging</dt>
+									<dd>-</dd>
+								
+									<dt>Host</dt>
+									<dd>run.opendns.com</dd>
+								
+									<dt>IP Address</dt>
+									<dd>24.254.22.111</dd>
+								
+									<dt>Org ID</dt>
+									<dd>1939163</dd>
+								
+									<dt>Origin ID</dt>
+									<dd>283048680</dd>
+								
+									<dt>Prefs</dt>
+									<dd>-</dd>
+								
+									<dt>Query</dt>
+									<dd>url=888888156883669190726678708415688078167266787016678677777085147180836870147886778574817766907083&amp;server=ash15&amp;prefs=&amp;tagging=&amp;nref</dd>
+								
+									<dt>Server</dt>
+									<dd>ash15</dd>
+								
+									<dt>Time</dt>
+									<dd>2020-03-05 23:29:03.684388732 &#43;0000 UTC m=&#43;1256553.543425272</dd>
+								
+								</dl>
+							</div>
+						</div>
+					
+					
+
+				</div>
+				
+				
+			</div>
+
+			<script type="text/javascript">
+				var cfOptions = {
+					baseUrl: "https://tools.opendns.com/contact-netadmin/",
+					enabled:  false ,
+					domain: "www.crazygames.com",
+				
+					oid:  283048680 ,
+					oidhash: "9206ba135de926bd77d6c76c8ab105672922faac5f58f56634acb4a73ba71936",
+					bundleid:  379451 ,
+					bundleidhash: "da46f7b8a6cdeb619787855da98b5a9ff66a5caa7963e4a181cd3d5140ad4f59",
+					preview: true ,
+					requestId: "bpgomfqjbb33imeo0qi0"
+				}
+			</script>
+			
+		</div>
+	</div>
+	<script type="text/javascript" src="/static/js/scripts.min.js?v=1.2.18"></script>
+</body>
+</html>
+
